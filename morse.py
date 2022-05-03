@@ -118,3 +118,4 @@ elif ed == 'd':
             string = ''
         else:
             string += letter
+    print(morse[string], end='')
